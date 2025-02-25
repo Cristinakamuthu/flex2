@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Playwrite+IT+Moderna:wght@100..400&family=Sigmar&display=swap');
+#center{ 
+height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    font-family: "Sigmar", serif;
+  font-weight: 400;
+  font-style: normal;
+}
